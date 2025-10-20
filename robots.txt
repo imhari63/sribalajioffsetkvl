@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://sribalajioffsetkvl.vercel.app/api/sitemap
+Sitemap: https://sribalajioffsetkvl.vercel.app/sitemap.xml
