@@ -5,8 +5,8 @@ export default function Document() {
     <Html lang="en">
       <Head>
         {/* Favicon */}
-        <link rel="icon" href="/logo-web.png" />
-        <link rel="shortcut icon" href="/logo-web.png" />
+        <link rel="icon" href="logo-web.png" />
+        <link rel="shortcut icon" href="logo-web.png" />
 
         {/* Primary Meta Tags */}
         <meta charSet="utf-8" />
